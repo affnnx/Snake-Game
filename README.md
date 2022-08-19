@@ -1,3 +1,3 @@
 # Snake-Game
-A Pythonbased Snake game.
+A Python based Snake game.
 Implemented using Turtle Module
